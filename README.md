@@ -7,3 +7,5 @@ Install all the required packages:
 ```console
 pip install -r requirements/local.txt
 ```
+
+### Note : Rename the ***.env.example*** file to ***.env***
