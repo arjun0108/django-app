@@ -1,0 +1,14 @@
+# Environment
+.env
+*.pyc
+*~
+__pycache__
+myvenv
+/static
+.DS_Store
+*.sqlite3
+.idea
+
+# Migrations
+**/migrations/*
+!**/migrations/__init__.py
