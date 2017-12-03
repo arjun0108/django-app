@@ -13,7 +13,6 @@ DATABASES = {
 }
 
 STATIC_URL = '/static/'
-<<<<<<< HEAD
 
 CORS_REPLACE_HTTPS_REFERER      = False
 HOST_SCHEME                     = "http://"
@@ -25,5 +24,3 @@ SECURE_HSTS_SECONDS             = None
 SECURE_HSTS_INCLUDE_SUBDOMAINS  = False
 SECURE_FRAME_DENY               = False
 
-=======
->>>>>>> b99e4290c55be9eb354c98058cb8470681f71c33
